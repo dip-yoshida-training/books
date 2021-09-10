@@ -1,1 +1,1 @@
-https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0-%E7%AC%AC3%E7%89%88-%E5%B9%B3%E7%94%B0-%E5%AF%8C%E5%A4%AB/dp/4627726538
+https://www.amazon.co.jp/プログラミングコンテスト攻略のためのアルゴリズムとデータ構造-渡部-有隆-ebook/dp/B00U5MVXZO
