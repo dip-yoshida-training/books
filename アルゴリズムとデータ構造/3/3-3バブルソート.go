@@ -35,6 +35,7 @@ func bubbleSort(A []int, N int) ([]int, int) {
 		for j = N -1; j > i; j-- {
 			// 隣接同士を比較し要素を交換
 			if A[j] < A[j - 1] {
+				// goでは一時変数不要
 				A[j], A[j - 1] = A[j - 1], A[j]
 				counta++
 				flag = true
