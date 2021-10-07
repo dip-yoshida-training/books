@@ -8,6 +8,7 @@ import (
 var top int
 var S[1000] int
 
+// 配列を使用したスタックの実装
 func main() {
 	var a, b int
 	var s string
@@ -40,11 +41,13 @@ func main() {
 }
 
 func push(x int) {
+	// topを加算してからその位置へ挿入
     top = top + 1
 	S[top] = x
 }
 
 func pop() int {
 	top = top - 1
+	// topが指していた要素を返す
 	return S[top + 1]
 }
